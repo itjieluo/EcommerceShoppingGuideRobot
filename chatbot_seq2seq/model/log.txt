@@ -1,0 +1,1 @@
+Epoch  17/20 Batch  730/1800 - Training Loss:  0.728
